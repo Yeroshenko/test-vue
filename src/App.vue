@@ -56,7 +56,7 @@
             <vs-th class='text-center'>Сума платежа</vs-th>
             <vs-th class='text-center'>Погашение процентов</vs-th>
             <vs-th class='text-center'>Погашение основного долга</vs-th>
-            <vs-th class='text-center'>Остаток догла</vs-th>
+            <vs-th class='text-center'>Остаток долга</vs-th>
           </vs-tr>
         </template>
         <template #tbody>
